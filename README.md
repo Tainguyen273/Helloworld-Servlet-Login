@@ -19,4 +19,4 @@ Người dùng đăng nhập bằng **username** và **password** cố định. 
 
 ## Lưu ý
 - File login.html là demo trang dành đăng nhập Cookies
-- File login-session.html là là demo trang đăng nhập Sesion
+- File login-session.html là là demo trang đăng nhập Session
